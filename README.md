@@ -1,3 +1,5 @@
+![Edwards Technology & Operations](edwards-technology-cover.png)
+
 # Edwards Technology & Operations
 
 A production-oriented **starter** for a small-business technology and operations agency, built with FastAPI, Jinja, SQLite, Docker, and a responsive public site. This is software infrastructure, **not** a registered legal entity or a finished operating business.
